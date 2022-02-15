@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Megan Ma
 - 👀 I’m interested in data analysis, machine learning, and pure mathematics
-- 🌱 I’m currently learning linear algebra and programming in R/C++
+- 🌱 I’m currently learning linear algebra and programming in R/Python
 - 📫 How to reach me: meganma45@gmail.com
 
 <!---

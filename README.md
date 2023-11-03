@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Megan Ma
-- 👀 I’m interested in data analysis, machine learning, and applied mathematics
-- 🌱 I’m currently learning linear algebra and programming in R/Python
+- 👀 I’m interested in data analysis, machine learning, and software engineering
 - 📫 How to reach me: meganma45@gmail.com
 
 <!---

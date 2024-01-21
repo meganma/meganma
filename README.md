@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Megan Ma
-- 👀 I’m interested in data analysis, machine learning, and software engineering
-- 📫 How to reach me: meganma45@gmail.com
+My name is Megan, I'm a Data Theory student at UCLA. Here are some cool things I've worked on: 
 
-<!---
-meganma/meganma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🍪 [A automated GUI bot for Cookie Clicker playthrough](https://github.com/meganma/cookie-clicker-bot)
+
+You can check out my full resume with more details here if you're interested in what I've done. 
